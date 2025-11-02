@@ -11,7 +11,7 @@
         <style>
         body {
             font-family: 'jersey 10';
-            overflow-x: scroll;
+            overflow-x: hidden;
             overflow-y: scroll;
             background-image: url('https://64.media.tumblr.com/65fb5de3e8ebed0961378814141533b7/af59d4bbf9b3582d-9c/s100x200/7f011170db44ddf32499615c2ce8455d73b2975b.jpg');    
         }
@@ -219,4 +219,5 @@
     </div>
 </body>
 </html>
+
 
